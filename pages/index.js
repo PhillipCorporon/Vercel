@@ -7,8 +7,8 @@ import { Container } from "@mui/material";
 import DeleteIcon from '@mui/icons-material/Delete';
 
 // import our own list
-import ListOfTodos from '@/components/ListOfTodos';
-import NewTodoForm from '@/components/NewTodoForm';
+import ListOfTodos from '/components/ListOfTodos';
+import NewTodoForm from '/components/NewTodoForm';
 
 export default function Home() {
 
